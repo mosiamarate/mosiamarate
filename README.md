@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mosia Marate</h1>
 <h3 align="center">A passionate Front-End Web Development & Networking</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosiamarate" alt="mosiamarate" /></a> </p>
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mosiamarate&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Flappy Bird Clone](https://github.com/mosiamarate/Flappy-Bird)
 
